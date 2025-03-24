@@ -1,7 +1,7 @@
 
 We discovered after submission that there were problems with symlink so the file couldn't be opened. Thus we wanted to send another repository with the same files.
 The main branch has up to date code but the tests are in the work branch (also in the main repository we went). We had some problems with files this time and couldn't make it on time.
-https://github.com/atrawinska/Zany-Flamingos-AOOP_lab2
+https://github.com/atrawinska/school_app
 
 
 # Project Responsibilities
